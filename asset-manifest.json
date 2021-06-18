@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/banking-react/static/css/main.75db6dc1.chunk.css",
+    "main.js": "/banking-react/static/js/main.abd2e957.chunk.js",
+    "main.js.map": "/banking-react/static/js/main.abd2e957.chunk.js.map",
+    "runtime-main.js": "/banking-react/static/js/runtime-main.3faf947a.js",
+    "runtime-main.js.map": "/banking-react/static/js/runtime-main.3faf947a.js.map",
+    "static/js/2.787cfa61.chunk.js": "/banking-react/static/js/2.787cfa61.chunk.js",
+    "static/js/2.787cfa61.chunk.js.map": "/banking-react/static/js/2.787cfa61.chunk.js.map",
+    "index.html": "/banking-react/index.html",
+    "static/css/main.75db6dc1.chunk.css.map": "/banking-react/static/css/main.75db6dc1.chunk.css.map",
+    "static/js/2.787cfa61.chunk.js.LICENSE.txt": "/banking-react/static/js/2.787cfa61.chunk.js.LICENSE.txt",
+    "static/media/car.svg": "/banking-react/static/media/car.198c8835.svg",
+    "static/media/fom1.svg": "/banking-react/static/media/fom1.56934b0b.svg",
+    "static/media/pigyy.svg": "/banking-react/static/media/pigyy.5f11287c.svg",
+    "static/media/video.7d1ea6a9.mp4": "/banking-react/static/media/video.7d1ea6a9.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3faf947a.js",
+    "static/js/2.787cfa61.chunk.js",
+    "static/css/main.75db6dc1.chunk.css",
+    "static/js/main.abd2e957.chunk.js"
+  ]
+}
